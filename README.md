@@ -52,6 +52,7 @@ Estudante de TI com foco em **programação web** e **algoritmos**. Gosto de con
 | [🧮 Programac-o-e-Algoritmos](https://github.com/balzaNeli/Programac-o-e-Algoritmos) | Algoritmos e lógica de programação em Portugol | Portugol |
 | [💱 siteconversordemoedas](https://github.com/balzaNeli/siteconversordemoedas) | Conversor de moedas interativo | HTML |
 | [🏠 sitedobalzaneli](https://github.com/balzaNeli/sitedobalzaneli) | Site pessoal | CSS |
+| [🖩 "Calculadora Foda"](https://github.com/balzaNeli/CPP/calculadoraFODA.cpp) | Calculadora em C++ | CPP |
 
 </div>
 
