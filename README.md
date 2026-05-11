@@ -52,8 +52,8 @@ Estudante de TI com foco em **programação web** e **algoritmos**. Gosto de con
 | [🧮 Programac-o-e-Algoritmos](https://github.com/balzaNeli/Programac-o-e-Algoritmos) | Algoritmos e lógica de programação em Portugol | Portugol |
 | [💱 siteconversordemoedas](https://github.com/balzaNeli/siteconversordemoedas) | Conversor de moedas interativo | HTML |
 | [🖩 "Calculadora Foda"](https://github.com/balzaNeli/CPP/blob/main/calculadoraFODA.cpp)| Calculadora em C++ | CPP |
-| [Aprendendo Vite + React](https://github.com/balzaNeli/Aprendendo-Vite-React))| Projeto para aprender Vite + React| Vite + React |
-| [[Aprendendo a fazer uma API](https://github.com/balzaNeli/Aprendendo-A-Criar-API)]| Projeto para aprender a fazer uma API| Node.js + Express + Prisma + MongoDB |
+| [Aprendendo Vite + React](https://github.com/balzaNeli/Aprendendo-Vite-React)| Projeto para aprender Vite + React| Vite + React |
+| [Aprendendo a fazer uma API](https://github.com/balzaNeli/Aprendendo-A-Criar-API)| Projeto para aprender a fazer uma API| Node.js + Express + Prisma + MongoDB |
 
 </div>
 
