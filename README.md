@@ -16,12 +16,12 @@
 
 ## Sobre mim
 
-Estudante de TI com foco em **programação web** e **algoritmos**. Gosto de construir interfaces do zero, entender como as coisas funcionam por dentro e explorar o máximo que a tecnologia pode oferecer — mesmo com recursos limitados.
+Estudante de TI com foco em **backend** e **algoritmos**. Gosto de entender como as coisas funcionam por dentro e explorar o máximo que a tecnologia pode oferecer — mesmo com recursos limitados.
 
-- 🎓 Cursando Tecnologia da Informação
+- 🎓 Cursando Desenvolvimento de Sistemas
 - 🌐 Desenvolvendo projetos com HTML, CSS e JavaScript
-- 🐍 Aprendendo Python e lógica de programação
-- ⚙️ Interesse em hardware, IoT e sistemas embarcados
+- 🐍 Aprendendo Python, C++ e lógica de programação
+- ⚙️ Interesse em hardware
 - 📍 Brasil
 
 ---
@@ -51,7 +51,7 @@ Estudante de TI com foco em **programação web** e **algoritmos**. Gosto de con
 | [💻 Programacao-Web-1](https://github.com/balzaNeli/Programacao-Web-1) | Atividades e projetos da disciplina de PW1 | HTML |
 | [🧮 Programac-o-e-Algoritmos](https://github.com/balzaNeli/Programac-o-e-Algoritmos) | Algoritmos e lógica de programação em Portugol | Portugol |
 | [💱 siteconversordemoedas](https://github.com/balzaNeli/siteconversordemoedas) | Conversor de moedas interativo | HTML |
-| [🖩 "Calculadora Foda"](https://github.com/balzaNeli/CPP/blob/main/calculadoraFODA.cpp)| Calculadora em C++ | CPP |
+| [🖩 "Calculadora"](https://github.com/balzaNeli/CPP/blob/main/calculadoraPOO.cpp)| Calculadora em C++ | CPP |
 | [Aprendendo Vite + React](https://github.com/balzaNeli/Aprendendo-Vite-React)| Projeto para aprender Vite + React| Vite + React |
 | [Aprendendo a fazer uma API](https://github.com/balzaNeli/Aprendendo-A-Criar-API)| Projeto para aprender a fazer uma API| Node.js + Express + Prisma + MongoDB |
 
