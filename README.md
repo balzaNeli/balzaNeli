@@ -47,14 +47,14 @@ Estudante de TI com foco em **backend** e **algoritmos**. Gosto de entender como
 
 | Projeto | Descrição | Tecnologia |
 |--------|-----------|------------|
-| [LandingPage](https://github.com/balzaNeli/LandingPage) | Landing page responsiva com design moderno | CSS |
-| [Programacao-Web-1](https://github.com/balzaNeli/Programacao-Web-1) | Atividades e projetos da disciplina de PW1 | HTML |
-| [Programacao-E-Algoritmos](https://github.com/balzaNeli/Programac-o-e-Algoritmos) | Algoritmos e lógica de Programacao | C++, Portugol |
-| [siteconversordemoedas](https://github.com/balzaNeli/siteconversordemoedas) | Conversor de moedas interativo | HTML |
-| ["Calculadora"](https://github.com/balzaNeli/CPP/blob/6ef9471cf6f30eb75572d8825f45b3a1a2ade0c5/ExerciciosAvancados/calculadoraPOO.cpp)| Calculadora em C++ | CPP |
+| [Landing Page](https://github.com/balzaNeli/LandingPage) | Landing page responsiva com design moderno | CSS |
+| [Programação Web 1](https://github.com/balzaNeli/Programacao-Web-1) | Atividades e projetos da disciplina de PW1 | HTML |
+| [Programação E Algoritmos](https://github.com/balzaNeli/Programac-o-e-Algoritmos) | Algoritmos e lógica de Programacao | C++, Portugol |
+| [Site Conversor de Moedas](https://github.com/balzaNeli/siteconversordemoedas) | Conversor de moedas interativo | HTML |
+| [Calculadora](https://github.com/balzaNeli/CPP/blob/6ef9471cf6f30eb75572d8825f45b3a1a2ade0c5/ExerciciosAvancados/calculadoraPOO.cpp)| Calculadora em C++ | CPP |
 | [Aprendendo Vite + React](https://github.com/balzaNeli/Aprendendo-Vite-React)| Projeto para aprender Vite + React| Vite + React |
 | [Aprendendo a fazer uma API](https://github.com/balzaNeli/Aprendendo-A-Criar-API)| Projeto para aprender a fazer uma API| Node.js + Express + Prisma + MongoDB |
-| [[VeroList](https://github.com/balzaNeli/VeroList)]| Projeto para aprender a fazer um APP Android|Arquitetura MVVM + Kotlin + Jetpack Compose + Room Database + Coroutines|
+| [VeroList](https://github.com/balzaNeli/VeroList)| Projeto para aprender a fazer um APP Android|Arquitetura MVVM + Kotlin + Jetpack Compose + Room Database + Coroutines|
 
 </div>
 
