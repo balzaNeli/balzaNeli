@@ -54,6 +54,7 @@ Estudante de TI com foco em **backend** e **algoritmos**. Gosto de entender como
 | ["Calculadora"](https://github.com/balzaNeli/CPP/blob/6ef9471cf6f30eb75572d8825f45b3a1a2ade0c5/ExerciciosAvancados/calculadoraPOO.cpp)| Calculadora em C++ | CPP |
 | [Aprendendo Vite + React](https://github.com/balzaNeli/Aprendendo-Vite-React)| Projeto para aprender Vite + React| Vite + React |
 | [Aprendendo a fazer uma API](https://github.com/balzaNeli/Aprendendo-A-Criar-API)| Projeto para aprender a fazer uma API| Node.js + Express + Prisma + MongoDB |
+| [[VeroList](https://github.com/balzaNeli/VeroList)]| Projeto para aprender a fazer um APP Android|Arquitetura MVVM + Kotlin + Jetpack Compose + Room Database + Coroutines|
 
 </div>
 
