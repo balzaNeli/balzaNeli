@@ -16,7 +16,7 @@
 
 ## Sobre mim
 
-Estudante de TI com foco em **backend** e **algoritmos**. Gosto de entender como as coisas funcionam por dentro e explorar o máximo que a tecnologia pode oferecer — mesmo com recursos limitados.
+Estudante de TI com foco em **backend** e **algoritmos**. Gosto de entender como as coisas funcionam por dentro.
 
 - 🎓 Cursando Desenvolvimento de Sistemas
 - 🌐 Desenvolvendo projetos com HTML, CSS e JavaScript
@@ -47,8 +47,6 @@ Estudante de TI com foco em **backend** e **algoritmos**. Gosto de entender como
 
 | Projeto | Descrição | Tecnologia |
 |--------|-----------|------------|
-| [Landing Page](https://github.com/balzaNeli/LandingPage) | Landing page responsiva com design moderno | CSS |
-| [Programação Web 1](https://github.com/balzaNeli/Programacao-Web-1) | Atividades e projetos da disciplina de PW1 | HTML |
 | [Programação E Algoritmos](https://github.com/balzaNeli/Programac-o-e-Algoritmos) | Algoritmos e lógica de Programacao | C++, Portugol |
 | [Site Conversor de Moedas](https://github.com/balzaNeli/siteconversordemoedas) | Conversor de moedas interativo | HTML |
 | [Calculadora](https://github.com/balzaNeli/CPP/blob/6ef9471cf6f30eb75572d8825f45b3a1a2ade0c5/ExerciciosAvancados/calculadoraPOO.cpp)| Calculadora em C++ | CPP |
