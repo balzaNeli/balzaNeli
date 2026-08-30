@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=balzaNeli&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Estudante%20de%20TI%20%7C%20Web%20Dev%20em%20formação&descAlignY=60&descSize=18&descColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:090d16,100:0d1117&height=200&section=header&text=balzaNeli&fontSize=60&fontColor=00f2fe&fontAlignY=38&desc=Estudante%20de%20TI%20%7C%20Web%20Dev%20em%20formação&descAlignY=60&descSize=18&descColor=a855f7" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Desenvolvendo+na+web+desde+o+início+%F0%9F%9A%80;HTML+%7C+CSS+%7C+Python+%7C+NodeJs;Apaixonado+por+tecnologia+e+hardware)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Desenvolvendo+na+web+desde+o+início+%F0%9F%9A%80;HTML+%7C+CSS+%7C+Python+%7C+NodeJs;Apaixonado+por+tecnologia+e+hardware)](https://git.io/typing-svg)
 
 </div>
 
@@ -30,12 +30,12 @@ Estudante de TI com foco em **backend** e **algoritmos**. Gosto de entender como
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
 </div>
 
@@ -62,15 +62,15 @@ Estudante de TI com foco em **backend** e **algoritmos**. Gosto de entender como
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=balzaNeli&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=balzaNeli&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=00f2fe&icon_color=a855f7&text_color=8b949e"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balzaNeli&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balzaNeli&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=000000&title_color=00f2fe&text_color=8b949e"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=balzaNeli&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff)
+![GitHub Streak](https://streak-stats.demolab.com?user=balzaNeli&theme=dark&hide_border=true&background=000000&stroke=00F2FE&ring=00F2FE&fire=A855F7&currStreakLabel=00F2FE&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff)
 
 </div>
 
@@ -80,7 +80,7 @@ Estudante de TI com foco em **backend** e **algoritmos**. Gosto de entender como
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-balzaNeli-181717?style=for-the-badge&logo=github)](https://github.com/balzaNeli)
+[![GitHub](https://img.shields.io/badge/GitHub-balzaNeli-000000?style=for-the-badge&logo=github&logoColor=00f2fe)](https://github.com/balzaNeli)
 
 </div>
 
@@ -88,6 +88,6 @@ Estudante de TI com foco em **backend** e **algoritmos**. Gosto de entender como
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:090d16,100:000000&height=100&section=footer" />
 
 </div>
