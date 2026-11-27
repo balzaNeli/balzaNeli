@@ -8,7 +8,7 @@
 
 <p><code>// Menos código mágico, mais controle sobre o que roda por baixo do capô.</code></p>
 
-<img align="right" src="./Code.jpg" width="230" alt="ASCII Art" />
+<img align="right" src="./Code.jpg" width="500" alt="ASCII Art" />
 
 <h2>Sobre mim</h2>
 <ul>
