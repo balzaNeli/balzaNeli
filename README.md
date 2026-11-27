@@ -1,93 +1,55 @@
-<div align="center">
+<h2>E aí, eu sou o <a href="https://github.com/balzaNeli">balzaNeli</a></h2>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:090d16,100:0d1117&height=200&section=header&text=balzaNeli&fontSize=60&fontColor=00f2fe&fontAlignY=38&desc=Estudante%20de%20TI%20%7C%20Web%20Dev%20em%20formação&descAlignY=60&descSize=18&descColor=a855f7" />
+<p>Sou estudante de Desenvolvimento de Sistemas na ETEC e gosto de entender como software e hardware funcionam por dentro. No dia a dia, divido meu tempo entre criar aplicações web, escrever código em C++ e Python, montar beats de trap no FL Studio e mexer com modelagem 3D no Blender.</p>
 
-</div>
+<p>
+  <a href="https://github.com/balzaNeli"><img src="https://img.shields.io/badge/-balzaNeli-181717?style=flat-square&amp;labelColor=181717&amp;logo=GitHub&amp;logoColor=white" alt="GitHub Badge"></a>
+</p>
 
----
+<p><code>// Menos código mágico, mais controle sobre o que roda por baixo do capô.</code></p>
 
-<div align="center">
+<img align="right" src="./Code.jpg" width="230" alt="ASCII Art" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Desenvolvendo+na+web+desde+o+início+%F0%9F%9A%80;HTML+%7C+CSS+%7C+Python+%7C+NodeJs;Apaixonado+por+tecnologia+e+hardware)](https://git.io/typing-svg)
+<h2>Sobre mim</h2>
+<ul>
+  <li>Trabalhando no <strong>Farol</strong>, um app de espelhamento de tela local em baixa latência para Windows e Fire TV.</li>
+  <li>Estudando estruturas de dados em C++, arquiteturas web com React e TypeScript, e desenvolvimento Android com Kotlin.</li>
+  <li>Meus códigos e experimentos ficam nos repositórios do <a href="https://github.com/balzaNeli">GitHub</a>.</li>
+</ul>
 
-</div>
+<h2>Projetos em destaque</h2>
+<details open>
+  <summary>Explorar repositórios</summary>
+  <ul>
+    <li><a href="https://github.com/balzaNeli/VeroList">VeroList</a> — App Android feito com Kotlin, Jetpack Compose, Room e arquitetura MVVM.</li>
+    <li><a href="https://github.com/balzaNeli/Aprendendo-A-Criar-API">Aprendendo a criar uma API</a> — Backend em Node.js, Express, Prisma e MongoDB.</li>
+    <li><a href="https://github.com/balzaNeli/Aprendendo-Vite-React">Aprendendo Vite + React</a> — Estudos de interfaces e componentes modernos na web.</li>
+    <li><a href="https://github.com/balzaNeli/Programac-o-e-Algoritmos">Programação e Algoritmos</a> — Exercícios de lógica e estruturas em C++ e Portugol.</li>
+    <li><a href="https://github.com/balzaNeli/CPP/blob/6ef9471cf6f30eb75572d8825f45b3a1a2ade0c5/ExerciciosAvancados/calculadoraPOO.cpp">Calculadora POO</a> — Calculadora orientada a objetos escrita em C++.</li>
+    <li><a href="https://github.com/balzaNeli/siteconversordemoedas">Site Conversor de Moedas</a> — Conversor interativo feito em HTML, CSS e JavaScript.</li>
+  </ul>
+</details>
 
----
+<h2>Ferramentas que eu uso</h2>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="28" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="28" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="28" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="28" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="28" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="28" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="28" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="28" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="28" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="28" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="28" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="28" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="28" />
+</p>
 
-## Sobre mim
+<br/>
 
-Estudante de TI com foco em **backend** e **algoritmos**. Gosto de entender como as coisas funcionam por dentro.
-
-- 🎓 Cursando Desenvolvimento de Sistemas
-- 🌐 Desenvolvendo projetos com HTML, CSS e JavaScript
-- 🐍 Aprendendo Python, C++ e lógica de programação
-- ⚙️ Interesse em hardware
-- 📍 Brasil
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-
-</div>
-
----
-
-## 📂 Projetos em Destaque
-
-<div align="center">
-
-| Projeto | Descrição | Tecnologia |
-|--------|-----------|------------|
-| [Programação E Algoritmos](https://github.com/balzaNeli/Programac-o-e-Algoritmos) | Algoritmos e lógica de Programacao | C++, Portugol |
-| [Site Conversor de Moedas](https://github.com/balzaNeli/siteconversordemoedas) | Conversor de moedas interativo | HTML |
-| [Calculadora](https://github.com/balzaNeli/CPP/blob/6ef9471cf6f30eb75572d8825f45b3a1a2ade0c5/ExerciciosAvancados/calculadoraPOO.cpp)| Calculadora em C++ | CPP |
-| [Aprendendo Vite + React](https://github.com/balzaNeli/Aprendendo-Vite-React)| Projeto para aprender Vite + React| Vite + React |
-| [Aprendendo a fazer uma API](https://github.com/balzaNeli/Aprendendo-A-Criar-API)| Projeto para aprender a fazer uma API| Node.js + Express + Prisma + MongoDB |
-| [VeroList](https://github.com/balzaNeli/VeroList)| Projeto para aprender a fazer um APP Android|Arquitetura MVVM + Kotlin + Jetpack Compose + Room Database + Coroutines|
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=balzaNeli&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=00f2fe&icon_color=a855f7&text_color=8b949e"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balzaNeli&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=000000&title_color=00f2fe&text_color=8b949e"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=balzaNeli&theme=dark&hide_border=true&background=000000&stroke=00F2FE&ring=00F2FE&fire=A855F7&currStreakLabel=00F2FE&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff)
-
-</div>
-
----
-
-## Contato
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-balzaNeli-000000?style=for-the-badge&logo=github&logoColor=00f2fe)](https://github.com/balzaNeli)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:090d16,100:000000&height=100&section=footer" />
-
-</div>
+<p>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=balzaNeli&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balzaNeli&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+</p>
