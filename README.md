@@ -1,6 +1,6 @@
 <h2>E aí, eu sou o <a href="https://github.com/balzaNeli">balzaNeli</a></h2>
 
-<p>Sou estudante de Desenvolvimento de Sistemas na ETEC e gosto de entender como software e hardware funcionam por dentro. No dia a dia, divido meu tempo entre criar aplicações web, escrever código em C++ e Python, montar beats de trap no FL Studio e mexer com modelagem 3D no Blender.</p>
+<p>Sou estudante de Desenvolvimento de Sistemas na ETEC e gosto de entender como software e hardware funcionam por dentro. No dia a dia, divido meu tempo entre criar aplicações web, escrever código em C++ e Python.</p>
 
 <p>
   <a href="https://github.com/balzaNeli"><img src="https://img.shields.io/badge/-balzaNeli-181717?style=flat-square&amp;labelColor=181717&amp;logo=GitHub&amp;logoColor=white" alt="GitHub Badge"></a>
